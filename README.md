@@ -11,7 +11,7 @@ This project implements a machine learning solution for multi-class brain tumor 
 - Classes: 4 different types of brain tumors
 - Image format: Grayscale, resized to 150x150 pixels
 
-## Prerequisites
+## Dependencies
 ```
 numpy
 pandas
